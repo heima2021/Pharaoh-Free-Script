@@ -1,5 +1,4 @@
-# free-ks
-mfks
+Pharaoh-Free-Script
 
 kspt=普通任务
 
